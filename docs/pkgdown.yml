@@ -1,0 +1,6 @@
+pandoc: 2.3.1
+pkgdown: 1.4.1
+pkgdown_sha: ~
+articles:
+  How_to_do_it: How_to_do_it.html
+

@@ -1,0 +1,19 @@
+---
+title: "How_to_do_it"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{How_to_do_it}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(IRfunctions)
+```
